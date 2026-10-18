@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # cbr_citizensense
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# cbr_citizensense
+>>>>>>> 31d5b92b7bb2e10c695c741d8aa0404e31f58900
